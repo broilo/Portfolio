@@ -36,3 +36,7 @@ h4 {
 	font-weight: 300;
     color: rgb(2, 0, 3);
 }
+
+img.lado {
+    float: left;
+}
